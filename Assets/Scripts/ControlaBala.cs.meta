@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: b8e61fee65619e3429b1e2393c730b60
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ZumbiMorto: {fileID: 8300000, guid: a2578ba6fc3d4374abbea53515a98c5b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
